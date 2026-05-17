@@ -1,0 +1,2 @@
+-- Przykład podstawowego zapytania SQL do pobrania danych z tabeli
+-- SELECT name, age FROM students WHERE age > 18;

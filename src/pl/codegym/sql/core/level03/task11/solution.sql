@@ -1,0 +1,1 @@
+-- Zapytanie pobierające imiona użytkowników oraz długość ich imion

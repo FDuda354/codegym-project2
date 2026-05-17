@@ -1,0 +1,1 @@
+-- Wybierz tylko kolumny name i course z tabeli students

@@ -1,0 +1,2 @@
+-- Używamy funkcji GREATEST() i LEAST() do określenia maksymalnej i minimalnej ceny
+-- spośród wszystkich walut dla każdego produktu. Uwzględniamy, że wartości NULL prowadzą do wyniku NULL.

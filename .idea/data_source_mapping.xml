@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/reset.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
     <file url="file://$PROJECT_DIR$/src/core/level02/task01/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
     <file url="file://$PROJECT_DIR$/src/core/level02/task01/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
     <file url="file://$PROJECT_DIR$/src/core/level02/task02/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
     <file url="file://$PROJECT_DIR$/src/core/level02/task02/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task03/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task03/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task05/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task05/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task06/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task06/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task09/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task09/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task10/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task10/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task15/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task15/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task16/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/core/level02/task16/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level01/task07/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level03/task03/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
-    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level03/task03/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
+    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level10/task03/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
+    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level10/task04/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
+    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level10/task07/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
+    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level10/task08/init.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
+    <file url="file://$PROJECT_DIR$/src/pl/codegym/sql/core/level10/task08/solution.sql" value="9ecc8eb2-9247-40ce-8695-9ebcb54e1ce2" />
   </component>
 </project>
